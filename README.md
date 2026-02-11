@@ -16,25 +16,23 @@ Asset management inspection images collected from field environments often conta
 
 **3. Preprocessing Workflow**
 
-Step 1 – Raw Image Collection.
-Images extracted from inspection sources for asset monitoring purposes.
+Step 1 – Step 1 – Initial Cropping & Region Focus
+![Step 1: Cropping](images/cropping.png)
 
-Step 2 – Image Masking
-  - Removed irrelevant regions
-  - Focused attention on asset defect areas
-  - Reduced visual noise
+Step 2 – Automated Masking
+![Step 2: Masking](images/masking.png)
 
-Step 3 – Watermark Application
-  - Applied standardised watermark for traceability
-  - Ensured consistent placement and formatting
+Step 3 – Secondary Mask Refinement
+![Step 3: Second Masking](images/second_masking.png)
 
-Step 4 – Image Standardization
-  - Maintained uniform dimensions
-  - Verified visual clarity
-  - Ensured consistent file naming convention
+Step 4 – Manual Masking (Adobe Photoshop)
+![Step 4: Manual Masking](images/manual_masking.png)
 
-Step 5 – Dataset Readiness Check
-Final quality check before images were passed for the next tasks.
+Step 5 – Watermark Application
+![Step 5: Watermarking](images/watermarking.png)
+
+Step 6 – Final Quality Check & Dataset Ready
+![Step 6: Quality Check](images/quality_check.png)
 
 **4. Data Quality Controls Applied**
 
@@ -46,7 +44,7 @@ Final quality check before images were passed for the next tasks.
 
   - GIMP
   - Adobe Photoshop
-  - Image preprocessing tools
+  - Image preprocessing tools (Panoramic Image Masking Tool & Panoramic Image Watermarking Tool)
 
 **6. Key Learning**
 
