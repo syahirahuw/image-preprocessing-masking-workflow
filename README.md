@@ -1,12 +1,13 @@
-**Image Preprocessing & Masking Workflow (Asset Management – Industry Internship Project)**
+# Image Preprocessing & Masking Workflow
+## Asset Management – Industry Internship Project
 
-**1. Project Overview**
+### 1. Project Overview
   - This project documents the image preprocessing and masking workflow developed during an industry internship supporting asset management inspection processes for a major utility company (TNB)
   - The objective was to prepare raw inspection images for structured dataset usage
   - This repository demonstrates the preprocessing methodology only
   - No confidential or proprietary data is included
 
-**2. Business Context**
+### 2. Business Context
 
 Asset management inspection images collected from field environments often contain:
   - Irrelevant background elements
@@ -14,7 +15,7 @@ Asset management inspection images collected from field environments often conta
   - Inconsistent framing
   - Non-standardised formatting
 
-**3. Preprocessing Workflow**
+### 3. Preprocessing Workflow
 
 Step 1 – Initial Cropping & Region Focus
 ![Step 1: Cropping](cropping.jpg)
@@ -34,19 +35,19 @@ Step 5 – Watermark Application
 Step 6 – Final Quality Check & Dataset Ready
 ![Step 6: Quality Check](quality_check.jpg)
 
-**4. Data Quality Controls Applied**
+### 4. Data Quality Controls Applied
 
   - Consistent masking standards
   - Standardised watermark placement
   - Visual clarity verification
 
-**5. Tools Used**
+### 5. Tools Used
 
   - GIMP
   - Adobe Photoshop
   - Image preprocessing tools (Panoramic Image Masking Tool & Panoramic Image Watermarking Tool)
 
-**6. Key Learning**
+### 6. Key Learning
 
   - Standardisation practices in enterprise-level projects
   - Role of data preparation in asset management analytics
