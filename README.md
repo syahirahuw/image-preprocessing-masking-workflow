@@ -22,7 +22,7 @@ Step 1 – Step 1 – Initial Cropping & Region Focus
 Step 2 – Automated Masking
 ![Step 2: Masking](images/masking.png)
 
-Step 3 – Secondary Mask Refinement
+Step 3 – Conditional Mask Refinement
 ![Step 3: Second Masking](images/second_masking.png)
 
 Step 4 – Manual Masking (Adobe Photoshop)
