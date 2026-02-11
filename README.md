@@ -17,22 +17,22 @@ Asset management inspection images collected from field environments often conta
 **3. Preprocessing Workflow**
 
 Step 1 – Step 1 – Initial Cropping & Region Focus
-![Step 1: Cropping](images/cropping.jpg)
+![Step 1: Cropping](cropping.jpg)
 
 Step 2 – Automated Masking
-![Step 2: Masking](images/masking.jpg)
+![Step 2: Masking](masking.jpg)
 
 Step 3 – Conditional Mask Refinement
-![Step 3: Second Masking](images/conditional_masking.jpg)
+![Step 3: Second Masking](conditional_masking.jpg)
 
 Step 4 – Manual Masking (Adobe Photoshop)
-![Step 4: Manual Masking](images/manual_masking.jpg)
+![Step 4: Manual Masking](manual_masking.jpg)
 
 Step 5 – Watermark Application
-![Step 5: Watermarking](images/watermarking.jpg)
+![Step 5: Watermarking](watermarking.jpg)
 
 Step 6 – Final Quality Check & Dataset Ready
-![Step 6: Quality Check](images/quality_check.jpg)
+![Step 6: Quality Check](quality_check.jpg)
 
 **4. Data Quality Controls Applied**
 
