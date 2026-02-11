@@ -1,42 +1,46 @@
-**Image Preprocessing & Masking Workflow for Computer Vision Dataset Preparation**
+**Image Preprocessing & Masking Workflow (Asset Management – Industry Internship Project)**
 
 **1. Project Overview**
+  - This project documents the image preprocessing and masking workflow developed during an industry internship supporting asset management inspection processes for a major utility company (TNB)
+  - The objective was to prepare raw inspection images for structured dataset usage
+  - This repository demonstrates the preprocessing methodology only
+  - No confidential or proprietary data is included
 
-  This project demonstrates the image preprocessing workflow applied to prepare raw road images for computer vision model training.
-The focus was on masking, watermarking, and standardizing images to ensure dataset consistency and training readiness.
+**2. Business Context**
 
-**2. Problem Statement**
-
-  - Raw images collected from field environments often contain:
-  - Noise and irrelevant background elements
-  - Inconsistent dimensions
-  - Visual distractions
-  - Non-standardized formatting
-  - Without preprocessing, model training performance may degrade due to poor data quality.
+Asset management inspection images collected from field environments often contain:
+  - Irrelevant background elements
+  - Visual noise
+  - Inconsistent framing
+  - Non-standardised formatting
 
 **3. Preprocessing Workflow**
 
 Step 1 – Raw Image Collection.
-Images extracted from road inspection sources.
+Images extracted from inspection sources for asset monitoring purposes.
 
-Step 2 – Image Masking.
-Irrelevant regions masked to focus on defect areas.
+Step 2 – Image Masking
+  - Removed irrelevant regions
+  - Focused attention on asset defect areas
+  - Reduced visual noise
 
-Step 3 – Watermark Application.
-Standard watermark added for dataset control and traceability.
+Step 3 – Watermark Application
+  - Applied standardised watermark for traceability
+  - Ensured consistent placement and formatting
 
-Step 4 – Image Standardization.
-Ensured consistent formatting and visual clarity.
+Step 4 – Image Standardization
+  - Maintained uniform dimensions
+  - Verified visual clarity
+  - Ensured consistent file naming convention
 
-Step 5 – Dataset Readiness Check.
-Final review before annotation and training usage.
+Step 5 – Dataset Readiness Check
+Final quality check before images were passed for the next tasks.
 
-**4. Data Preparation Controls**
+**4. Data Quality Controls Applied**
 
   - Consistent masking standards
-  - Uniform watermark placement
+  - Standardised watermark placement
   - Visual clarity verification
-  - File naming standardization
 
 **5. Tools Used**
 
@@ -46,7 +50,5 @@ Final review before annotation and training usage.
 
 **6. Key Learning**
 
-  - Importance of clean training data
-  - Role of preprocessing in model performance
-  - Visual data standardization
-  - Dataset preparation best practices
+  - Standardisation practices in enterprise-level projects
+  - Role of data preparation in asset management analytics
