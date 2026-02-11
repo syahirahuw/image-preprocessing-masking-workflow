@@ -16,7 +16,7 @@ Asset management inspection images collected from field environments often conta
 
 **3. Preprocessing Workflow**
 
-Step 1 – Step 1 – Initial Cropping & Region Focus
+Step 1 – Initial Cropping & Region Focus
 ![Step 1: Cropping](cropping.jpg)
 
 Step 2 – Automated Masking
